@@ -2,9 +2,9 @@ p {
   font-size: 20px;
   column-count: 2;
   column-gap: 40px;
-  column-rule: 1px dashed green;
+  column-rule:8px dotted;
   column-rule-color: red;
 }
 h2 {
-
+text-align: center;
 }
