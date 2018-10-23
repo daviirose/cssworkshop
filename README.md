@@ -1,1 +1,3 @@
-# cssworkshop
+# CSSworkshop
+
+- Learning some CSS
